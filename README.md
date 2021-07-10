@@ -8,4 +8,4 @@
 
 ![game](game.png)
 
-![gameVideo](gameVideo.mp4)
+https://youtu.be/i3H1Q_N_EGI
