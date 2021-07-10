@@ -5,3 +5,5 @@
 ## Ekran Görüntüleri
 
 ![menu](menu.png)
+
+![game](game.png)
