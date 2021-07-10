@@ -4,3 +4,4 @@
 
 ## Ekran Görüntüleri
 
+![github](1.png)
