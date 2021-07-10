@@ -4,4 +4,4 @@
 
 ## Ekran Görüntüleri
 
-![1](1.png)
+![menu](menu.png)
