@@ -1,6 +1,6 @@
 # MertBabur_runnergame
 
-3 level basit bir runner oyunu.
+3 level'a sahip basit bir runner oyunu.
 
 ## Ekran Görüntüleri
 
