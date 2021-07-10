@@ -10,6 +10,4 @@
 
 ## Oyun Videosu
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/i3H1Q_N_EGI)
-
 ![gameVideo](https://j.gifs.com/WPLPYQ.gif)
